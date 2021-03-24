@@ -23,7 +23,7 @@ Pod::Spec.new do |spec|
 
  
 
-  spec.source       = { :git => "http://EXAMPLE/WJSDKTest.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/wangjie0223/SDKTest.git", :tag => "#{spec.version}" }
 
 
   
