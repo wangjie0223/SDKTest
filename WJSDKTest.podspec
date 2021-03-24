@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "http://EXAMPLE/WJSDKTest"
   
 
-  spec.license      = "MIT (example)"
+  spec.license      = "MIT"
   
 
   spec.author             = { "jqrios" => "wangjie@jqrjl.com" }
